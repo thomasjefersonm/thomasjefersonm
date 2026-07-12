@@ -17,7 +17,7 @@
 - Sistema de aluguel de equipamentos.
 - Projetos acadêmicos em desenvolvimento de software e banco de dados.
 
-🎯 Atualmente busco uma oportunidade de estágio na área de desenvolvimento de software ou Dados.
+🎯 Atualmente busco uma oportunidade de estágio ou junior na área de desenvolvimento de software ou Dados.
 
 ## 📫 Contato
 
