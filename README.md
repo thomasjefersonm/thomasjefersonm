@@ -24,7 +24,7 @@
 
 ### Objetivo
 
-Atualmente busco uma oportunidade de estágio em Desenvolvimento de Software, Front-End ou Dados.
+Atualmente busco uma oportunidade de estágio ou junior em Desenvolvimento de Software, Front-End ou Dados.
 
 ### Contato
 
