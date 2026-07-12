@@ -2,24 +2,31 @@
 
 🎓 Estudante de Engenharia de Software.
 
-💻 Atualmente estudando e desenvolvendo projetos com:
-- Python
+💻 Tenho interesse em desenvolvimento de software, desenvolvimento web e análise de dados.
+
+### Tecnologias
+
 - Java
+- Python
 - SQL
 - HTML
 - CSS
 - JavaScript
 - Git e GitHub
-- AWS e Computação em Nuvem
+- AWS e Computação em Nuvem (conhecimentos iniciais)
 
-🚀 Projetos em destaque:
-- Sistema web para gestão de atendimentos de uma fisioterapeuta (Projeto de Extensão).
-- Sistema de aluguel de equipamentos.
-- Projetos acadêmicos em desenvolvimento de software e banco de dados.
+### Projetos em destaque
 
-🎯 Atualmente busco uma oportunidade de estágio ou junior na área de desenvolvimento de software ou Dados.
+- 💼 Sistema web para gestão de atendimentos de uma fisioterapeuta (Projeto de Extensão).
+- 🏨 Sistema Back-End para gerenciamento de hotel.
+- 📦 Sistema de aluguel de equipamentos.
+- 📊 Projetos acadêmicos envolvendo banco de dados e desenvolvimento de software.
 
-## 📫 Contato
+### Objetivo
 
-- LinkedIn: https://www.linkedin.com/in/thomasjef
+Atualmente busco uma oportunidade de estágio em Desenvolvimento de Software, Front-End ou Dados.
+
+### Contato
+
 - E-mail: thomasjef.2004@gmail.com
+- Linkedin: www.linkedin.com/in/thomasjef
