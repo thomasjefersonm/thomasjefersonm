@@ -10,7 +10,7 @@ Busco estágio nas áreas de **IA, Dados e Machine Learning**, unindo desenvolvi
 
 ## 🚀 Projetos em destaque
 
-- 🤖 **Copiloto de IA para clínica de fisioterapia e pilates**: IA com Gemini integrada a um sistema web de agendamentos. Realiza agendamento e cancelamento, informa evoluções e históricos de pacientes, descreve as informações após as sessões e gera dicas e recomendações para a profissional a partir de material do Conselho de Fisioterapia.
+- 🤖 **[Auxiliar de Casos: Copiloto de IA para fisioterapia](https://github.com/brunoghisii/Projeto-integrador)**: módulo de apoio à decisão clínica (Gemini) em um sistema web de clínica de fisioterapia e pilates, desenvolvido em equipe. Combina triagem de red flags por regras determinísticas, análise sobre datasets clínicos, leitura de laudos em PDF/imagem e chat de casos para a fisioterapeuta, com anonimização dos dados antes do envio à IA.
 - 📊 **[pesquisadados](https://github.com/thomasjefersonm/pesquisadados) · [parte 2](https://github.com/thomasjefersonm/pesquisadados_parte2) · [parte 3](https://github.com/thomasjefersonm/pesquisadados_parte3)**: pipeline de dados com Apache Spark, Delta Lake e MinIO, evoluindo para arquitetura medalhão (landing, bronze, silver, gold) no Databricks com Jobs.
 - 💼 **Sistema web para gestão de atendimentos**: projeto de extensão para uma fisioterapeuta, base do copiloto de IA.
 
