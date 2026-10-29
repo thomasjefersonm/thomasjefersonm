@@ -1,8 +1,8 @@
 # Olá! Eu sou o Thomas Jeferson 👋
 
-🎓 Estudante de Engenharia de Software (5º semestre) na Unisatc
-🤖 Foco em **IA aplicada a produtos**, **Engenharia de Dados** e **Machine Learning**
-📍 Três Cachoeiras – RS
+- 🎓 Estudante de Engenharia de Software (5º semestre) na Unisatc
+- 🤖 Foco em **IA aplicada a produtos**, **Engenharia de Dados** e **Machine Learning**
+- 📍 Três Cachoeiras – RS
 
 ## 🎯 Objetivo
 
@@ -16,11 +16,11 @@ Busco estágio nas áreas de **IA, Dados e Machine Learning**, unindo desenvolvi
 
 ## 🛠️ Tecnologias
 
-**Linguagens:** Python · SQL · JavaScript · HTML · CSS
-**IA:** Gemini (integração em sistema real) · Soluções de IA no GitHub
-**Dados:** Apache Spark · Delta Lake · Databricks · SQL Server · MySQL · MongoDB
-**Ferramentas:** Git e GitHub · Docker · Linux (WSL/Ubuntu) · DBeaver
-**Nuvem:** AWS (re/Start)
+- **Linguagens:** Python · SQL · JavaScript · HTML · CSS
+- **IA:** Gemini (integração em sistema real) · Soluções de IA no GitHub
+- **Dados:** Apache Spark · Delta Lake · Databricks · SQL Server · MySQL · MongoDB
+- **Ferramentas:** Git e GitHub · Docker · Linux (WSL/Ubuntu) · DBeaver
+- **Nuvem:** AWS (re/Start)
 
 ## 📜 Certificações
 
